@@ -1,6 +1,6 @@
 ## Welcome to Lewis & Clark Data Science
 
-### Home of teaching modules, tutorials, workshops, and other resources for instructors and students at Lewis & Clark.
+Home of teaching modules, tutorials, workshops, and other resources for instructors and students at Lewis & Clark.
 
 
 
